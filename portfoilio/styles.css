@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sujan Ajitesh</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: blue;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h2 {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .internship img {
+            width: 100%;
+            height: auto;
+        }
+
+        footer {
+            background-color: black;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu_8OV75_zYy5g_z9XKg6jK5gZ_7Q=s300-c-mo" alt="Sujan Ajitesh">
+        <h1>Sujan Ajitesh</h1>
+    </header>
+    <section id="about">
+        <h2>About</h2>
+        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu_8OV75_zYy5g_z9XKg6jK5gZ_7Q=s300-c-mo" alt="Sujan Ajitesh">
+        <p>I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, and various frontend and backend frameworks. I enjoy building robust and scalable web applications that solve real-world problems.</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Node.js</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="internship">
+            <h3>aicte</h3>
+            <img src="file:///C:/Users/sujan%20ajitesh/Downloads/WhatsApp%20Image%202024-02-19%20at%2015.08.23_0b3ab770.jpg" alt="internship">
+            <p>A full-stack e-commerce website built using MERN stack (MongoDB, Express.js, React.js, Node.js). Users can browse products, add them to cart, and complete orders.</p>
+        </div>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <p>Download my resume <a href="resume.pdf" download>here</a>.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: 22pa1a4212@vishnu.edu.in</p>
+        <p>Phone: 6302654084</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Sujan Ajitesh. All rights reserved.</
